@@ -14,3 +14,8 @@ Request log for Second Brain operations.
 **Status:** done
 **Action taken:** Added latest Discord voice note metadata to Resources/Voice Captures/2026-02-28 - Hanako - voice-message.md (transcript pending).
 
+## [2026-02-28 16:38 UTC] — transcribe and translate latest voice message
+
+**Request:** Transcribe the latest vocal message and translate to English.
+**Status:** pending
+
