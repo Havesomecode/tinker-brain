@@ -11,5 +11,6 @@ Request log for Second Brain operations.
 ## [2026-02-28 16:34 UTC] — capture latest voice note from Discord
 
 **Request:** Check the latest vocal message and add it to the brain.
-**Status:** pending
+**Status:** done
+**Action taken:** Added latest Discord voice note metadata to Resources/Voice Captures/2026-02-28 - Hanako - voice-message.md (transcript pending).
 
