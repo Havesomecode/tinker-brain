@@ -8,3 +8,8 @@ Request log for Second Brain operations.
 **Status:** done
 **Action taken:** Initialized PARA folders (Projects/Areas/Resources/Archives), created project/area/resource notes, and migrated previously captured brain-dump items into tinker-brain.
 
+## [2026-02-28 16:34 UTC] — capture latest voice note from Discord
+
+**Request:** Check the latest vocal message and add it to the brain.
+**Status:** pending
+
