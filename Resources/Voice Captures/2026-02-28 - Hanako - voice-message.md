@@ -17,3 +17,9 @@
 
 ## Next step
 - Add transcript/summary text from the voice note and convert to actionable items.
+
+## Transcription (detected language: French)
+Aujourd'hui, on a un hackathon sur OpenClaw, le manager d'agents, et on prépare une solution pour créer un agent qui fait du personal branding sur les réseaux sociaux et qui permettra d'avoir des profils pertinents sans devoir le faire à la main.
+
+## English translation
+Today we have a hackathon on OpenClaw, the agent manager, and we are preparing a solution to create an agent that does personal branding on social networks and will allow having relevant profiles without needing to do it manually.
