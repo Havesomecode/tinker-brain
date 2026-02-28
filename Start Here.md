@@ -32,3 +32,8 @@ Request log for Second Brain operations.
 **Status:** done
 **Action taken:** Added reflection to Resources/Personal Reflections.md under 2026-02-28.
 
+## [2026-02-28 17:21 UTC] — capture preference (pizza)
+
+**Request:** "i prefer margerita pizza"
+**Status:** pending
+
