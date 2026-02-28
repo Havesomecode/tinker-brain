@@ -26,3 +26,8 @@ Request log for Second Brain operations.
 **Status:** done
 **Action taken:** Added reflection to Resources/Personal Reflections.md under 2026-02-28.
 
+## [2026-02-28 17:05 UTC] — capture brain dump thought (M job)
+
+**Request:** Brain dump: "I wonder what it would take to get a 1m$ job nowadays"
+**Status:** pending
+
